@@ -2,5 +2,17 @@
 <resources>
     <string name="app_name">Bonjour</string>
     <string name="hello_message">Bonjour le monde!</string>
-    <string name="ButtonText">je\' suis un bouton</string>
+    <string name="ButtonText">J\'e suis un bouton</string>
+    <string name="TextView">Login!</string>
+    <string name="textEmailAddress">identifiant</string>
+    <string name="radioButtonText">Un Bouton</string>
+    <string name="imageButtonText">Deux Bouton</string>
+    <string name="checkBoxText">verifier moi!!!!</string>
+    <string name="switchText">permettre à quelque chose</string>
+    <string name="ButtonName">identifier</string>
+    <string name="login_button_text">bouton de connexion</string>
+    <string name="dialog_message">voulez-vous revenir à la page précédente?</string>
+    <string name="dialog_title">quitter cette page</string>
+    <string name="ok">Oui</string>
+    <string name="cancel">Annuler</string>
 </resources>
